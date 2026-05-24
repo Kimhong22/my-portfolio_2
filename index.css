@@ -210,7 +210,6 @@ p {
   font-weight: 600;
 }
 
-<<<<<<< HEAD
 #curse ul {
   list-style: none;
   display: flex;
@@ -226,8 +225,6 @@ p {
   font-weight: 600;
 }
 
-=======
->>>>>>> 2b80c8bef1f8bb8781cb0d271069c201472797a7
 .experience p + p {
   margin-top: 10px;
 }
