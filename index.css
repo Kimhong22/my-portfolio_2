@@ -210,14 +210,14 @@ p {
   font-weight: 600;
 }
 
-#curse ul {
+#course ul {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
 }
 
-#curse li {
+#course li {
   padding: 10px 16px;
   background: #edf7ff;
   border: 1px solid #cfe8ff;
